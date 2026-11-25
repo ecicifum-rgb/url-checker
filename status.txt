@@ -1,3 +1,5 @@
-STATUS: OK
-Checked: 2026-11-25 12:44 UTC
-Total: 158 | Down: 0 | Warnings: 127
+STATUS: DOWN
+Checked: 2026-11-25 22:27 UTC
+Total: 158 | Down: 1 | Warnings: 118
+Down:
+https://theindustrialedge.blogspot.com
